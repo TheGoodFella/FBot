@@ -1,2 +1,2 @@
 # FBot
-a bot that publics content following a schedule
+a bot that posts content on Facebook following a schedule
