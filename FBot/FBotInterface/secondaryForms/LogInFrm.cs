@@ -8,11 +8,11 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace FBotInterface
+namespace FBotInterface.secondaryForms
 {
-    public partial class Form1 : Form
+    public partial class LogInFrm : Form
     {
-        public Form1()
+        public LogInFrm()
         {
             InitializeComponent();
         }
