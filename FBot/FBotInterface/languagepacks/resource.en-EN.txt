@@ -1,0 +1,3 @@
+﻿0000=Account
+0001=Log in
+0002=hello
