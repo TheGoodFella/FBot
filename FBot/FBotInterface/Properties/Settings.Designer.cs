@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace FBot.Properties
+namespace FBotInterface.Properties
 {
 
 

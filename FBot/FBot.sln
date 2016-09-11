@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FBot", "FBot\FBot.csproj", "{30FC052A-36F1-4D74-9FF3-9EC02F2BBAFA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FBotInterface", "FBotInterface\FBotInterface.csproj", "{8707F013-E8D0-49B9-A3D5-B6FB744FD41F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FBot", "FBot\FBot.csproj", "{523AA9A6-008B-4358-808D-285F5E8DB3C2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +13,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{30FC052A-36F1-4D74-9FF3-9EC02F2BBAFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{30FC052A-36F1-4D74-9FF3-9EC02F2BBAFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{30FC052A-36F1-4D74-9FF3-9EC02F2BBAFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{30FC052A-36F1-4D74-9FF3-9EC02F2BBAFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8707F013-E8D0-49B9-A3D5-B6FB744FD41F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8707F013-E8D0-49B9-A3D5-B6FB744FD41F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8707F013-E8D0-49B9-A3D5-B6FB744FD41F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8707F013-E8D0-49B9-A3D5-B6FB744FD41F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{523AA9A6-008B-4358-808D-285F5E8DB3C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{523AA9A6-008B-4358-808D-285F5E8DB3C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{523AA9A6-008B-4358-808D-285F5E8DB3C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{523AA9A6-008B-4358-808D-285F5E8DB3C2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,4 +1,4 @@
-﻿namespace FBot
+﻿namespace FBotInterface
 {
     partial class Form1
     {
